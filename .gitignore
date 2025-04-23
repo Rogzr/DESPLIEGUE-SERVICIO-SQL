@@ -1,0 +1,5 @@
+# Virtual environments
+.venv
+
+# Sensitive data
+my_psswd.json

@@ -1,0 +1,848 @@
+CustomerID,CompanyName,Fecha
+1,A Bike Store,31
+2,Progressive Sports,396
+3,Advanced Bike Components,62
+4,Modular Cycle Systems,365
+5,Metropolitan Sports Supply,427
+6,Aerobic Exercise Company,792
+7,Associated Bikes,365
+10,Rural Cycle Emporium,427
+11,Sharp Bikes,31
+12,Bikes and Motorbikes,396
+16,Bulk Discount Store,427
+18,Catalog Store,31
+19,Center Cycle Shop,639
+20,Central Discount Store,62
+21,Chic Department Stores,427
+22,Travel Systems,31
+23,Bike World,427
+24,Eastside Department Store,427
+25,Coalition Bike Company,427
+28,Commuter Bicycle Store,761
+29,Cross-Country Riding Supplies,31
+30,Cycle Merchants,427
+34,Cycles Wholesaler & Mfg.,730
+37,Two Bike Shops,427
+38,Finer Mart,792
+39,Fitness Hotel,427
+40,Journey Sporting Goods,31
+41,Distant Inn,365
+42,Healthy Activity Store,365
+43,Frugal Bike Shop,396
+46,Gear-Shift Bikes Limited,518
+47,Greater Bike Store,62
+48,Grand Industries,792
+52,Instruments and Parts Company,792
+55,Kickstands and Accessories Company,792
+56,Latest Accessories Sales,396
+57,Leading Sales & Repair,62
+58,Largest Bike Store,123
+59,Locks Company,792
+60,Main Bicycle Services,792
+61,Many Bikes Store,427
+64,Metal Clearing House,761
+65,Metro Manufacturing,396
+66,Neighborhood Store,396
+70,Outdoor Aerobic Systems Company,761
+73,Outdoor Sports Supply,31
+74,Parcel Express Delivery Service,123
+75,Paint Supply,62
+76,Out-of-the-Way Hotels,62
+77,Mechanical Products Ltd.,396
+78,Preferred Bikes,31
+79,Reasonable Bicycle Sales,396
+82,Refined Department Stores,365
+83,Requisite Part Supply,0
+84,Rewarding Activities Company,31
+88,Closest Bicycle Store,792
+91,Scooters and Bikes Store,62
+92,Sports Commodities,62
+93,Stationary Bikes and Stands,62
+94,Specialty Sports Store,365
+95,Rural Department Store,730
+96,More Bikes!,62
+97,Mountain Bike Center,396
+100,Up-To-Date Sports,761
+101,Urban Sports Emporium,396
+102,National Manufacturing,31
+106,West Side Mart,792
+109,Travel Sports,792
+110,Vintage Sport Boutique,730
+111,Westside Cycle Store,153
+112,Town Industries,792
+113,Trendy Department Stores,792
+114,Two Wheels Cycle Store,62
+115,Security Racks and Locks Wholesalers,396
+118,Rapid Bikes,62
+119,Red Bicycle Company,0
+120,Machines & Cycles Store,730
+124,Nearby Sporting Goods,396
+127,Front Sporting Goods,396
+128,Demand Distributors,335
+129,Discount Bicycle Specialists,123
+130,Elite Bikes,427
+131,Eighth Bike Store,761
+132,Another Sporting Goods Company,761
+133,Commercial Sporting Goods,427
+136,Wholesale Parts,31
+137,Transportation Options,123
+138,South Bike Company,761
+142,Riding Cycles,792
+145,Raw Materials Inc,31
+146,Latest Sports Equipment,0
+147,Local Hardware Factory,427
+148,Lots of Bikes Storehouse,123
+149,Initial Bike Company,427
+150,Fleet Bikes,396
+151,Futuristic Bikes,427
+154,Camping and Sports Store,792
+155,Corner Bicycle Supply,62
+156,Metal Processing Company,62
+160,Vigorous Sports Store,427
+163,Sports Merchandise,792
+164,Suburban Cycle Shop,31
+165,Third Bike Store,427
+166,Fitness Toy Store,0
+167,Farthermost Bike Shop,31
+168,Economy Bikes Company,427
+169,Downtown Hotel,62
+172,Certified Sports Supply,62
+173,Sundry Sporting Goods,62
+174,Toy Manufacturing Inc,62
+178,Rampart Amusement Company,761
+180,Full-Service Bike Store,62
+181,Family Entertainment Center,761
+182,Another Bicycle Company,792
+183,This Area Sporting Goods,365
+184,Go-cart and Bike Specialists,365
+185,Weekend Bike Tours,730
+186,Thrilling Bike Tours,792
+187,Trailblazing Sports,62
+190,Racing Partners,792
+191,Non-Slip Pedal Company,31
+192,Nuts and Bolts Mfg.,31
+196,Exhibition Showroom,730
+197,"Fabrikam Inc., West",427
+198,Field Trip Inc,123
+199,Authorized Bike Sales and Rental,761
+200,Basic Bike Company,0
+201,Unsurpassed Bikes,792
+202,Two-Seater Bikes,792
+203,Separate Parts Corporation,0
+204,Traction Tire Company,0
+205,Rally Master Company Inc,730
+208,Professional Cyclists,31
+209,Purple Bicycle Company,31
+210,Gasless Cycle Shop,31
+214,Exclusive Bicycle Mart,396
+217,City Manufacturing,488
+218,Sure & Reliable Sporting Goods,31
+219,Extras Sporting Goods,608
+220,Best o' Bikes,730
+221,Bike Dealers Association,0
+222,Sample Bike Store,62
+223,Paints and Solvents Company,792
+226,Leisure Activities,396
+227,"Health Spa, Limited",0
+228,Home Town Bike Store,792
+232,Exceptional Cycle Services,730
+235,Certified Bicycle Supply,427
+236,Closeout Boutique,396
+237,Client Discount Store,396
+238,A Great Bicycle Company,62
+239,Bicycle Merchandise Warehouse,427
+240,Wire Baskets and Parts,31
+241,Vale Riding Supplies,730
+244,Retail Discount Store,1066
+245,Leather Seat Factory,365
+246,Large Bike Shop,365
+250,Express Bike Services,761
+253,Roving Sports,365
+254,Safe Cycles Shop,427
+255,Swift Cycles,31
+256,Rental Bikes,31
+257,Number 1 Supply,396
+258,Quantity Discounts,396
+259,Highway Bike Shop,31
+262,General Industries,427
+263,Farthest Bike Store,761
+264,Fasteners & Bolts Outlet,761
+268,Channel Outlet,792
+271,Alternative Vehicles,123
+272,Metro Cycle Shop,62
+273,A Typical Bike Shop,62
+274,Active Systems,365
+275,Outdoor Sporting Goods,730
+276,Thrifty Parts and Sales,792
+277,The Bicycle Accessories Company,427
+280,Standard Bikes,396
+281,Petroleum Products Distributors,792
+282,Quick Parts and Service,792
+286,Number One Bike Co.,365
+287,Handy Bike Services,31
+288,Kickstand Sellers,518
+289,Moderately-Priced Bikes Store,31
+290,Friendly Bike Shop,365
+291,Grand Bicycle Stores,427
+292,Grease and Oil Products Company,0
+293,Fashionable Bikes and Accessories,62
+294,Flawless Bike Shop,62
+295,Engineered Bike Systems,792
+298,City Cycling,792
+299,Citywide Service and Repair,365
+300,Nice Bikes,427
+304,Essential Bike Works,792
+306,Work and Play Association,427
+307,Riding Associates,761
+308,Rugged Bikes,792
+309,The Gear Store,31
+310,Orange Bicycle Company,396
+311,Principal Bike Company,427
+312,Resale Services,31
+313,Metropolitan Manufacturing,123
+316,Low Price Cycles,761
+317,Finer Riding Supplies,31
+318,First-Rate Outlet,31
+322,Tachometers and Accessories,427
+323,Metro Bike Works,396
+325,All Cycle Shop,365
+326,Year-Round Sports,31
+327,World of Bikes,427
+328,Totes & Baskets Company,31
+329,"Unicycles, Bicycles, and Tricycles",31
+330,The New Bike Store,153
+331,Technical Parts Manufacturing,730
+334,Retreat Inn,396
+335,Scratch-Resistant Finishes Company,31
+336,Primary Bike Distributors,31
+340,Nearby Cycle Shop,427
+343,Mail-Order Outlet,396
+344,Fifth Bike Store,0
+345,Genial Bike Associates,396
+346,Great Bicycle Supply,31
+347,Bike Universe,31
+348,Bold Bike Accessories,31
+349,Exercise Center,427
+352,Twelfth Bike Store,396
+353,Two-Wheeled Transit Company,31
+354,Serious Cycles,31
+358,Mail Market,761
+360,Novelty Bikes,761
+361,Fitness Supplies,761
+362,Grand Cycle Store,761
+363,Immense Manufacturing Company,761
+364,District Mall,31
+365,Distinctive Store,62
+366,Extended Bike Sales,62
+367,Brown Bicycle Company,62
+370,Acceptable Sales & Service,31
+371,Custom Sales and Service,31
+372,Top Bike Market,792
+376,Commerce Bicycle Specialists,396
+377,Grand Sport Boutique,396
+379,Fad Outlet,427
+380,First Department Stores,365
+381,Bicycle Lines Distributors,396
+382,Beneficial Exercises and Activities,427
+383,Vehicle Shop,92
+384,Sparkling Paint and Finishes,31
+385,Sturdy Toys,31
+388,Road Way Sales and Rental,518
+389,Sixth Bike Store,31
+390,Plastic Parts Company,123
+394,Little Sports Center,761
+395,Online Bike Sellers,427
+397,Capable Sales and Service,0
+398,Commendable Bikes,365
+399,Big Cycle Mall,761
+400,Local Sales and Rental,792
+401,Brightwork Company,31
+402,Pro Sporting Goods,31
+403,Affordable Sports Equipment,31
+406,The Commissary,518
+407,Workout Emporium,792
+408,Odometers and Accessories Company,792
+412,Leisure Clearing House,396
+415,Imaginary Toys,365
+416,Impromptu Trips,365
+417,Genuine Bike Shop,62
+418,Good Bike Shop,62
+419,Exertion Activities Club,62
+420,Extreme Riding Supplies,792
+421,Fitness Cycling,730
+424,Bikes for Two,427
+425,Bikes for Kids and Adults,365
+426,Custom Accessories Company,396
+430,Uttermost Bike Shop,396
+431,Small Cycle Store,0
+433,Thorough Parts and Repair Services,31
+434,Road-Way Mart,457
+435,Satin Finish Company,396
+436,Sheet Metal Manufacturing,396
+437,Professional Cycle Store,365
+438,Remarkable Bike Store,153
+439,Regional Manufacturing,62
+442,Original Bicycle Supply Company,0
+443,Courteous Bicycle Specialists,792
+444,Finer Cycle Shop,396
+448,Action Bicycle Specialists,792
+451,Roadway Bike Emporium,730
+452,A Cycle Shop,730
+453,Unique Bikes,62
+454,Sleek Bikes ,792
+455,Timely Shipping Service,792
+456,Riding Excursions,184
+457,Retail Sporting Equipment,427
+460,Price-Cutter Discount Bikes,62
+461,Active Life Toys,427
+462,General Riding Supplies,580
+466,Central Bicycle Specialists,792
+468,Blue Bicycle Company,396
+469,Vast Bike Sales and Rental,31
+470,Wingtip Toys,792
+471,Social Activities Club,31
+472,Summer Sports Place,427
+473,Racing Toys,62
+474,Retail Cycle Shop,427
+475,Real Sporting Goods,365
+478,Major Cycling,31
+479,General Supplies,396
+480,General Bike Corporation,0
+484,Downhill Bicycle Specialists,396
+487,Bike Experts,396
+488,Bicycle Accessories and Kits,1415
+489,Cash & Carry Bikes,427
+490,Extraordinary Bike Works,427
+491,Area Bike Accessories,1415
+492,Basic Sports Equipment,31
+493,Valley Bicycle Distributors,488
+496,Top Sports Supply,365
+497,Valley Toy Store,427
+498,Quick Delivery Service,62
+502,Metropolitan Bicycle Supply,427
+504,Historic Bicycle Sales,0
+505,Honest Repair Service,730
+506,Great Bikes ,0
+507,Global Sporting Goods,0
+508,Designer Department Stores,0
+509,Fun Toys and Bikes,792
+510,World Bike Discount Store,0
+511,Wheel Gallery,0
+514,Retail Mall,0
+515,Rural Bicycle Supply,0
+516,Seats and Saddles Company,488
+520,Metro Metals Co.,761
+523,Futuristic Sport Distributors,365
+526,Finer Sales and Service,153
+527,Fun Times Club,31
+528,Alpine Ski House,123
+529,Big-Time Bike Store,396
+532,The Showroom,123
+533,Tenth Bike Store,31
+534,Recommended Bicycles,123
+538,Prosperous Tours,365
+541,Nonskid Tire Company,123
+542,Finer Parts Shop,153
+543,Friendly Neighborhood Bikes,700
+544,Valley Bicycle Specialists,1415
+545,Finish and Sealant Products,62
+546,Field Trip Store,396
+547,Curbside Sporting Goods,396
+550,Remote Bicycle Specialists,427
+551,Vinyl and Plastic Goods Corporation,62
+552,Consolidated Messenger,761
+556,Variety Cycling,761
+559,Some Discount Store,31
+560,Major Sport Suppliers,730
+561,Mountain Toy Store,153
+562,Practical Bike Supply Company,62
+563,Systematic Sales,761
+564,Imported and Domestic Cycles,669
+565,Metallic Paint and Overcoat Co,669
+568,Economy Center,31
+569,Designated Distributors,31
+570,Family's Favorite Bike Shop,396
+574,Area Sheet Metal Supply,396
+577,Synthetic Materials Manufacturing,184
+578,The Bike Shop,0
+579,Riders Company,1415
+580,Rural Sales and Service,243
+581,Safe Toys,62
+582,Professional Sales and Service,1415
+583,Professional Containers and Packaging Co.,396
+586,One Bike Company,427
+587,Our Sporting Goods Store,427
+588,General Cycle Storehouse,62
+592,Cycling Goods,396
+595,Cycle Clearance,792
+596,Coho Sports,396
+597,All Seasons Sports Supply,730
+598,Black Bicycle Company,580
+599,Westside Plaza,730
+600,Strenuous Exercise Shop,730
+601,Transport Bikes,792
+604,Sellers of Cycles,792
+605,Outstanding Cycles,761
+606,Little Bicycle Supply Shop,761
+607,Maintenance and Repair for Bicycles,761
+608,Golf and Cycle Store,62
+609,Good Toys,427
+610,Fitness Department Stores,761
+613,Famous Bike Shop,427
+617,Tubeless Tire Company,761
+620,Tires and Tubes,0
+621,Running and Cycling Gear,792
+622,Gift and Toy Store,365
+623,Hardware Components,31
+624,First Cycle Store,62
+625,Major Sporting Goods,580
+626,Retail Sporting Goods,457
+629,Efficient Cycling,761
+630,Eastside Parts Shop,792
+631,Tandem Sales and Service,62
+635,Sports Store,518
+637,Reliable Retail Center,427
+641,Extended Tours,365
+643,Friendly Bike Shop,92
+644,Convenient Sales and Service,427
+645,Superior Hardware Distributors,396
+646,Yellow Bicycle Company,0
+647,Solid Bike Parts,62
+648,Small Bike Shop,62
+649,Sports Products Store,427
+650,Permanent Finish Products,31
+653,Mercantile Outlet,396
+654,Online Bike Warehouse,427
+655,Operational Manufacturing,1066
+659,Shipping Specialists,945
+660,Exhilarating Cycles,365
+661,General Department Stores,31
+665,Authentic Sales and Service,427
+668,Official Parts Shop,365
+669,Racing Bike Outlet,488
+670,First Bike Store,0
+671,"Contoso, Ltd.",0
+672,Utilitarian Sporting Goods,792
+673,Countryside Company,457
+674,Discount Tours,153
+677,Tire Exchange,396
+678,Vigorous Exercise Company,62
+679,Superb Sales and Repair,0
+683,Oils and Fluids Warehouse,396
+685,Family Cycle Store,427
+689,Consumer Equipment,792
+692,Successful Sales Company,427
+693,Stock Parts and Supplies,761
+694,The Accessories Store,396
+695,Responsible Bike Dealers,427
+696,Roadway Supplies,123
+697,Brakes and Gears,31
+698,Western Bike Supplies,365
+701,Future Bikes,518
+29485,Professional Sales and Service,1415
+29486,Riders Company,1415
+29489,Area Bike Accessories,1415
+29490,Bicycle Accessories and Kits,1415
+29492,Valley Bicycle Specialists,1415
+29494,Vinyl and Plastic Goods Corporation,62
+29496,Fun Toys and Bikes,792
+29497,Great Bikes ,0
+29499,Valley Toy Store,427
+29502,Major Sport Suppliers,730
+29503,Family's Favorite Bike Shop,396
+29505,Imported and Domestic Cycles,669
+29506,Systematic Sales,761
+29508,Mountain Toy Store,153
+29510,Designated Distributors,31
+29511,Bold Bike Accessories,31
+29515,Serious Cycles,31
+29517,Novelty Bikes,761
+29521,Brightwork Company,31
+29522,Resale Services,31
+29523,The Gear Store,31
+29524,Immense Manufacturing Company,761
+29525,Extended Bike Sales,62
+29527,Workout Emporium,792
+29528,Work and Play Association,427
+29530,Nice Bikes,427
+29531,Remarkable Bike Store,153
+29532,Road-Way Mart,457
+29533,Small Cycle Store,0
+29535,Grand Bicycle Stores,427
+29536,Kickstand Sellers,518
+29539,Gasless Cycle Shop,31
+29541,Transportation Options,123
+29544,Finer Cycle Shop,396
+29545,Center Cycle Shop,639
+29546,Bulk Discount Store,427
+29548,First-Rate Outlet,31
+29550,Another Bicycle Company,792
+29553,Unsurpassed Bikes,792
+29554,Field Trip Inc,123
+29557,Odometers and Accessories Company,792
+29558,Scratch-Resistant Finishes Company,31
+29559,Safe Cycles Shop,427
+29560,Number 1 Supply,396
+29562,Golf and Cycle Store,62
+29565,World Bike Discount Store,0
+29566,Historic Bicycle Sales,0
+29567,Commuter Bicycle Store,761
+29568,Coalition Bike Company,427
+29569,Travel Systems,31
+29570,Grease and Oil Products Company,0
+29571,Moderately-Priced Bikes Store,31
+29573,Economy Bikes Company,427
+29574,Third Bike Store,427
+29576,Bikes for Two,427
+29577,Metal Processing Company,62
+29579,Initial Bike Company,427
+29580,Latest Sports Equipment,0
+29582,Raw Materials Inc,31
+29583,Lots of Bikes Storehouse,123
+29584,Futuristic Bikes,427
+29585,Parcel Express Delivery Service,123
+29587,Prosperous Tours,365
+29588,Nonskid Tire Company,123
+29590,Metro Bike Works,396
+29591,Best o' Bikes,730
+29593,Client Discount Store,396
+29596,Requisite Part Supply,0
+29598,Mechanical Products Ltd.,396
+29599,Commendable Bikes,365
+29600,Online Bike Sellers,427
+29601,Custom Accessories Company,396
+29603,Courteous Bicycle Specialists,792
+29605,Professional Cycle Store,365
+29606,Fifth Bike Store,0
+29608,Farthest Bike Store,761
+29611,Alternative Vehicles,123
+29612,Channel Outlet,792
+29614,Retail Mall,0
+29615,Metro Metals Co.,761
+29616,Sheet Metal Manufacturing,396
+29617,Thorough Parts and Repair Services,31
+29618,Uttermost Bike Shop,396
+29620,Two-Wheeled Transit Company,31
+29622,Metro Cycle Shop,62
+29623,Outdoor Sporting Goods,730
+29625,Petroleum Products Distributors,792
+29627,Bikes and Motorbikes,396
+29629,Camping and Sports Store,792
+29631,Rural Department Store,730
+29632,Sports Commodities,62
+29635,Responsible Bike Dealers,427
+29636,Western Bike Supplies,365
+29637,Advanced Bike Components,62
+29638,Aerobic Exercise Company,792
+29639,Corner Bicycle Supply,62
+29641,Westside Plaza,730
+29643,Outstanding Cycles,761
+29644,Vigorous Sports Store,427
+29645,Sports Merchandise,792
+29646,Fitness Toy Store,0
+29649,General Cycle Storehouse,62
+29650,Fitness Cycling,730
+29651,Good Bike Shop,62
+29653,Thrilling Bike Tours,792
+29654,This Area Sporting Goods,365
+29655,Full-Service Bike Store,62
+29659,Genuine Bike Shop,62
+29660,Extreme Riding Supplies,792
+29662,Fleet Bikes,396
+29663,Local Hardware Factory,427
+29666,South Bike Company,761
+29668,Discount Bicycle Specialists,123
+29671,Machines & Cycles Store,730
+29673,Two Wheels Cycle Store,62
+29674,Westside Cycle Store,153
+29677,Urban Sports Emporium,396
+29680,Sixth Bike Store,31
+29682,Vehicle Shop,92
+29683,First Department Stores,365
+29684,Grand Sport Boutique,396
+29686,Distinctive Store,62
+29688,Handy Bike Services,31
+29689,Friendly Bike Shop,365
+29690,Fashionable Bikes and Accessories,62
+29692,Citywide Service and Repair,365
+29695,Rugged Bikes,792
+29696,Principal Bike Company,427
+29698,Finer Riding Supplies,31
+29699,Neighborhood Store,396
+29702,Paint Supply,62
+29703,Preferred Bikes,31
+29705,Rewarding Activities Company,31
+29708,Stationary Bikes and Stands,62
+29709,Successful Sales Company,427
+29710,Downtown Hotel,62
+29711,Certified Sports Supply,62
+29713,Rampart Amusement Company,761
+29714,Sundry Sporting Goods,62
+29716,Farthermost Bike Shop,31
+29717,Suburban Cycle Shop,31
+29719,Racing Bike Outlet,488
+29720,Utilitarian Sporting Goods,792
+29722,Vigorous Exercise Company,62
+29727,Stock Parts and Supplies,761
+29728,Roadway Supplies,123
+29730,Future Bikes,518
+29732,Satin Finish Company,396
+29733,Regional Manufacturing,62
+29734,Original Bicycle Supply Company,0
+29736,Action Bicycle Specialists,792
+29737,Roadway Bike Emporium,730
+29738,Sleek Bikes ,792
+29739,Retail Sporting Equipment,427
+29740,Price-Cutter Discount Bikes,62
+29741,Central Bicycle Specialists,792
+29742,Vast Bike Sales and Rental,31
+29743,Summer Sports Place,427
+29744,Real Sporting Goods,365
+29747,The Bike Shop,0
+29748,Safe Toys,62
+29750,Our Sporting Goods Store,427
+29753,Coho Sports,396
+29755,Quick Delivery Service,62
+29757,Basic Sports Equipment,31
+29758,Cash & Carry Bikes,427
+29761,General Bike Corporation,0
+29763,Retail Cycle Shop,427
+29764,Social Activities Club,31
+29765,Blue Bicycle Company,396
+29766,General Riding Supplies,580
+29768,Riding Excursions,184
+29769,Unique Bikes,62
+29770,Rural Cycle Emporium,427
+29771,Associated Bikes,365
+29772,Modular Cycle Systems,365
+29773,A Bike Store,31
+29774,Journey Sporting Goods,31
+29775,Two Bike Shops,427
+29776,Cycles Wholesaler & Mfg.,730
+29778,Number One Bike Co.,365
+29780,Standard Bikes,396
+29781,The Bicycle Accessories Company,427
+29782,Active Systems,365
+29783,Futuristic Sport Distributors,365
+29784,Big-Time Bike Store,396
+29785,The Showroom,123
+29787,Year-Round Sports,31
+29788,The New Bike Store,153
+29789,Primary Bike Distributors,31
+29792,Genial Bike Associates,396
+29793,Commercial Sporting Goods,427
+29794,Wholesale Parts,31
+29796,Riding Cycles,792
+29797,Metro Manufacturing,396
+29799,Locks Company,792
+29800,Latest Accessories Sales,396
+29803,Greater Bike Store,62
+29805,Distant Inn,365
+29806,Finer Mart,792
+29807,Cross-Country Riding Supplies,31
+29809,Bike World,427
+29810,Central Discount Store,62
+29813,Sharp Bikes,31
+29815,Metropolitan Sports Supply,427
+29816,Progressive Sports,396
+29818,Brakes and Gears,31
+29819,The Accessories Store,396
+29822,Family Cycle Store,427
+29824,Superb Sales and Repair,0
+29826,Countryside Company,457
+29827,First Bike Store,0
+29830,General Department Stores,31
+29831,Operational Manufacturing,1066
+29832,Online Bike Warehouse,427
+29834,Small Bike Shop,62
+29835,Superior Hardware Distributors,396
+29840,Eastside Parts Shop,792
+29842,First Cycle Store,62
+29843,Running and Cycling Gear,792
+29847,Good Toys,427
+29848,Little Bicycle Supply Shop,761
+29850,All Seasons Sports Supply,730
+29851,Leisure Clearing House,396
+29852,The Commissary,518
+29853,Affordable Sports Equipment,31
+29854,Local Sales and Rental,792
+29855,Economy Center,31
+29857,Area Sheet Metal Supply,396
+29858,Synthetic Materials Manufacturing,184
+29859,Rural Sales and Service,243
+29860,Tubeless Tire Company,761
+29861,Hardware Components,31
+29862,Retail Sporting Goods,457
+29863,Efficient Cycling,761
+29864,General Industries,427
+29865,Highway Bike Shop,31
+29866,Rental Bikes,31
+29867,Roving Sports,365
+29868,Express Bike Services,761
+29870,Retail Discount Store,1066
+29871,Vale Riding Supplies,730
+29872,A Great Bicycle Company,62
+29873,Certified Bicycle Supply,427
+29874,Exceptional Cycle Services,730
+29876,Leisure Activities,396
+29877,Paints and Solvents Company,792
+29879,Bikes for Kids and Adults,365
+29881,Home Town Bike Store,792
+29883,Sample Bike Store,62
+29884,Extras Sporting Goods,608
+29885,Sure & Reliable Sporting Goods,31
+29889,Separate Parts Corporation,0
+29890,Basic Bike Company,0
+29891,"Fabrikam Inc., West",427
+29892,Non-Slip Pedal Company,31
+29893,Weekend Bike Tours,730
+29895,General Supplies,396
+29897,Racing Toys,62
+29898,Capable Sales and Service,0
+29900,Road Way Sales and Rental,518
+29901,Sturdy Toys,31
+29902,Beneficial Exercises and Activities,427
+29903,Fad Outlet,427
+29904,Commerce Bicycle Specialists,396
+29905,Acceptable Sales & Service,31
+29906,District Mall,31
+29907,Fitness Supplies,761
+29908,Mail Market,761
+29910,Twelfth Bike Store,396
+29911,Consolidated Messenger,761
+29913,Field Trip Store,396
+29914,Finish and Sealant Products,62
+29915,Finer Parts Shop,153
+29918,Up-To-Date Sports,761
+29919,Mountain Bike Center,396
+29920,Specialty Sports Store,365
+29921,Scooters and Bikes Store,62
+29922,Closest Bicycle Store,792
+29924,Reasonable Bicycle Sales,396
+29925,Outdoor Sports Supply,31
+29926,Outdoor Aerobic Systems Company,761
+29928,Metal Clearing House,761
+29929,Many Bikes Store,427
+29930,Largest Bike Store,123
+29931,Kickstands and Accessories Company,792
+29932,Instruments and Parts Company,792
+29934,Gear-Shift Bikes Limited,518
+29935,Frugal Bike Shop,396
+29936,Family Entertainment Center,761
+29937,Go-cart and Bike Specialists,365
+29938,Trailblazing Sports,62
+29939,Racing Partners,792
+29941,Exhibition Showroom,730
+29942,Authorized Bike Sales and Rental,761
+29943,Two-Seater Bikes,792
+29944,More Bikes!,62
+29946,National Manufacturing,31
+29948,Town Industries,792
+29949,Security Racks and Locks Wholesalers,396
+29950,Rapid Bikes,62
+29952,Nearby Sporting Goods,396
+29953,Front Sporting Goods,396
+29954,Elite Bikes,427
+29955,Catalog Store,31
+29956,Chic Department Stores,427
+29957,Eastside Department Store,427
+29959,Cycle Merchants,427
+29962,Fitness Hotel,427
+29964,Grand Industries,792
+29967,Leading Sales & Repair,62
+29969,Tandem Sales and Service,62
+29971,Reliable Retail Center,427
+29973,Friendly Bike Shop,92
+29974,Yellow Bicycle Company,0
+29975,Sports Products Store,427
+29978,Shipping Specialists,945
+29980,Authentic Sales and Service,427
+29981,Official Parts Shop,365
+29982,Discount Tours,153
+29983,Tire Exchange,396
+29985,Oils and Fluids Warehouse,396
+29987,Rally Master Company Inc,730
+29988,Professional Cyclists,31
+29990,Exclusive Bicycle Mart,396
+29991,City Manufacturing,488
+29992,Bike Dealers Association,0
+29994,"Health Spa, Limited",0
+29997,Closeout Boutique,396
+29998,Bicycle Merchandise Warehouse,427
+30000,Leather Seat Factory,365
+30003,Practical Bike Supply Company,62
+30004,Some Discount Store,31
+30005,Variety Cycling,761
+30007,Remote Bicycle Specialists,427
+30008,Friendly Neighborhood Bikes,700
+30010,Recommended Bicycles,123
+30012,Alpine Ski House,123
+30016,Seats and Saddles Company,488
+30018,All Cycle Shop,365
+30019,Tachometers and Accessories,427
+30021,Low Price Cycles,761
+30022,Metropolitan Manufacturing,123
+30023,Orange Bicycle Company,396
+30024,Riding Associates,761
+30025,Essential Bike Works,792
+30027,Engineered Bike Systems,792
+30028,Professional Containers and Packaging Co.,396
+30029,One Bike Company,427
+30030,Cycling Goods,396
+30031,Cycle Clearance,792
+30032,Black Bicycle Company,580
+30033,Transport Bikes,792
+30034,Sellers of Cycles,792
+30035,Maintenance and Repair for Bicycles,761
+30036,Fitness Department Stores,761
+30037,Famous Bike Shop,427
+30039,Gift and Toy Store,365
+30040,Major Sporting Goods,580
+30042,Major Cycling,31
+30044,Downhill Bicycle Specialists,396
+30045,Bike Experts,396
+30046,Extraordinary Bike Works,427
+30047,Valley Bicycle Distributors,488
+30048,Top Sports Supply,365
+30050,Metropolitan Bicycle Supply,427
+30051,Honest Repair Service,730
+30052,Wheel Gallery,0
+30053,Top Bike Market,792
+30055,Bicycle Lines Distributors,396
+30056,Sparkling Paint and Finishes,31
+30058,Plastic Parts Company,123
+30061,Big Cycle Mall,761
+30063,Eighth Bike Store,761
+30064,Demand Distributors,335
+30067,Red Bicycle Company,0
+30069,Trendy Department Stores,792
+30070,Vintage Sport Boutique,730
+30071,Travel Sports,792
+30072,West Side Mart,792
+30074,Tenth Bike Store,31
+30076,Fun Times Club,31
+30080,Wingtip Toys,792
+30083,Active Life Toys,427
+30087,Quick Parts and Service,792
+30089,Thrifty Parts and Sales,792
+30090,A Typical Bike Shop,62
+30093,Fasteners & Bolts Outlet,761
+30094,Quantity Discounts,396
+30095,Swift Cycles,31
+30098,Large Bike Shop,365
+30100,Wire Baskets and Parts,31
+30102,Sports Store,518
+30104,Extended Tours,365
+30105,Convenient Sales and Service,427
+30106,Solid Bike Parts,62
+30107,Permanent Finish Products,31
+30108,Mercantile Outlet,396
+30109,Exhilarating Cycles,365
+30110,Exercise Center,427
+30111,Great Bicycle Supply,31
+30112,Mail-Order Outlet,396
+30113,Nearby Cycle Shop,427
+30115,Retreat Inn,396
+30116,Technical Parts Manufacturing,730
+30117,Totes & Baskets Company,31
+30118,World of Bikes,427
