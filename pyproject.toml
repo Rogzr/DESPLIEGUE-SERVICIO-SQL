@@ -5,13 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-<<<<<<< HEAD
     "pandas>=2.2.3",
     "pyodbc>=5.2.0",
-=======
     "flask>=3.1.0",
     "ipykernel>=6.29.5",
     "joblib>=1.4.2",
     "numpy>=2.2.5",
->>>>>>> 17d869440609292d48531af031431fd6ece6ecc9
 ]
