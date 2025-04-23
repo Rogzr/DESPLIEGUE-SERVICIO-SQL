@@ -22,7 +22,7 @@ Predecir la fecha de modificación (`ModifiedDate`) de los registros de clientes
 ## Estructura del proyecto
 
 ### 1. Lectura de datos (`recuperar_datos.ipynb`)
-- Conexión a Azure SQL usando `pyodbc` o `SQLAlchemy`.
+- Conexión a Azure SQL usando `pyodbc`.
 - Lectura de la tabla `SalesLT.Customer`.
 - Limpieza y transformación de datos.
 
