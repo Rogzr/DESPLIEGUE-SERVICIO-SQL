@@ -8,31 +8,38 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
 <<<<<<< HEAD
+<<<<<<< HEAD
     { name = "ipykernel" },
     { name = "pandas" },
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
     { name = "pandas" },
     { name = "pyodbc" },
-=======
     { name = "flask" },
     { name = "ipykernel" },
     { name = "joblib" },
     { name = "numpy" },
+<<<<<<< HEAD
 >>>>>>> 17d869440609292d48531af031431fd6ece6ecc9
 >>>>>>> 1c15cf89151254c547c15b029526df5131841951
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
 ]
 
 [package.metadata]
 requires-dist = [
 <<<<<<< HEAD
+<<<<<<< HEAD
     { name = "ipykernel", specifier = ">=6.29.5" },
     { name = "pandas", specifier = ">=2.2.3" },
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
     { name = "pandas", specifier = ">=2.2.3" },
     { name = "pyodbc", specifier = ">=5.2.0" },
-=======
     { name = "flask", specifier = ">=3.1.0" },
     { name = "ipykernel", specifier = ">=6.29.5" },
     { name = "joblib", specifier = ">=1.4.2" },
@@ -389,9 +396,12 @@ sdist = { url = "https://files.pythonhosted.org/packages/83/f8/51569ac65d696c8ec
 wheels = [
     { url = "https://files.pythonhosted.org/packages/a0/c4/c2971a3ba4c6103a3d10c4b0f24f461ddc027f0f09763220cf35ca1401b3/nest_asyncio-1.6.0-py3-none-any.whl", hash = "sha256:87af6efd6b5e897c81050477ef65c62e2b2f35d51703cae01aff2905b1852e1c", size = 5195 },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 17d869440609292d48531af031431fd6ece6ecc9
 >>>>>>> 1c15cf89151254c547c15b029526df5131841951
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
 ]
 
 [[package]]
@@ -434,6 +444,7 @@ wheels = [
 
 [[package]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 name = "packaging"
 version = "25.0"
 source = { registry = "https://pypi.org/simple" }
@@ -446,6 +457,8 @@ wheels = [
 =======
 <<<<<<< HEAD
 >>>>>>> 1c15cf89151254c547c15b029526df5131841951
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
 name = "pandas"
 version = "2.2.3"
 source = { registry = "https://pypi.org/simple" }
@@ -499,7 +512,6 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/a4/35/1c7efd4665e7983169d20175014f68578e0edfcbc4602b0bafcefa522c4a/pyodbc-5.2.0-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:eaf42c4bd323b8fd01f1cd900cca2d09232155f9b8f0b9bcd0be66763588ce64", size = 353025 },
     { url = "https://files.pythonhosted.org/packages/6d/c9/736d07fa33572abdc50d858fd9e527d2c8281f3acbb90dff4999a3662edd/pyodbc-5.2.0-cp313-cp313-win32.whl", hash = "sha256:207f16b7e9bf09c591616429ebf2b47127e879aad21167ac15158910dc9bbcda", size = 63052 },
     { url = "https://files.pythonhosted.org/packages/73/2a/3219c8b7fa3788fc9f27b5fc2244017223cf070e5ab370f71c519adf9120/pyodbc-5.2.0-cp313-cp313-win_amd64.whl", hash = "sha256:96d3127f28c0dacf18da7ae009cd48eac532d3dcc718a334b86a3c65f6a5ef5c", size = 69486 },
-=======
 name = "packaging"
 version = "25.0"
 source = { registry = "https://pypi.org/simple" }
@@ -601,9 +613,12 @@ sdist = { url = "https://files.pythonhosted.org/packages/7c/2d/c3338d48ea6cc0feb
 wheels = [
     { url = "https://files.pythonhosted.org/packages/8a/0b/9fcc47d19c48b59121088dd6da2488a49d5f72dacf8262e2790a1d2c7d15/pygments-2.19.1-py3-none-any.whl", hash = "sha256:9ea1544ad55cecf4b8242fab6dd35a93bbce657034b0611ee383099054ab6d8c", size = 1225293 },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 17d869440609292d48531af031431fd6ece6ecc9
 >>>>>>> 1c15cf89151254c547c15b029526df5131841951
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
 ]
 
 [[package]]
@@ -620,9 +635,12 @@ wheels = [
 
 [[package]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 1c15cf89151254c547c15b029526df5131841951
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
 name = "pytz"
 version = "2025.2"
 source = { registry = "https://pypi.org/simple" }
@@ -630,12 +648,15 @@ sdist = { url = "https://files.pythonhosted.org/packages/f8/bf/abbd3cdfb8fbc7fb3
 wheels = [
     { url = "https://files.pythonhosted.org/packages/81/c4/34e93fe5f5429d7570ec1fa436f1986fb1f00c3e0f43a589fe2bbcd22c3f/pytz-2025.2-py2.py3-none-any.whl", hash = "sha256:5ddf76296dd8c44c26eb8f4b6f35488f3ccbf6fbbd7adee0b7262d43f0ec2f00", size = 509225 },
 <<<<<<< HEAD
+<<<<<<< HEAD
 ]
 
 [[package]]
 =======
 =======
 >>>>>>> 1c15cf89151254c547c15b029526df5131841951
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
 name = "pywin32"
 version = "310"
 source = { registry = "https://pypi.org/simple" }
@@ -688,9 +709,12 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/d9/8c/db446a3dd9cf894406dec2e61eeffaa3c07c3abb783deaebb9812c4af6a5/pyzmq-26.4.0-cp313-cp313t-musllinux_1_1_i686.whl", hash = "sha256:c80fcd3504232f13617c6ab501124d373e4895424e65de8b72042333316f64a8", size = 1495501 },
     { url = "https://files.pythonhosted.org/packages/05/4c/bf3cad0d64c3214ac881299c4562b815f05d503bccc513e3fd4fdc6f67e4/pyzmq-26.4.0-cp313-cp313t-musllinux_1_1_x86_64.whl", hash = "sha256:26a2a7451606b87f67cdeca2c2789d86f605da08b4bd616b1a9981605ca3a364", size = 1395540 },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 17d869440609292d48531af031431fd6ece6ecc9
 >>>>>>> 1c15cf89151254c547c15b029526df5131841951
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
 ]
 
 [[package]]
@@ -704,16 +728,22 @@ wheels = [
 
 [[package]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
 name = "tzdata"
 version = "2025.2"
 source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/95/32/1a225d6164441be760d75c2c42e2780dc0873fe382da3e98a2e1e48361e5/tzdata-2025.2.tar.gz", hash = "sha256:b60a638fcc0daffadf82fe0f57e53d06bdec2f36c4df66280ae79bce6bd6f2b9", size = 196380 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/5c/23/c7abc0ca0a1526a0774eca151daeb8de62ec457e77262b66b359c3c7679e/tzdata-2025.2-py2.py3-none-any.whl", hash = "sha256:1a403fada01ff9221ca8044d701868fa132215d84beb92242d9acd2147f667a8", size = 347839 },
+<<<<<<< HEAD
 =======
 >>>>>>> 1c15cf89151254c547c15b029526df5131841951
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
 name = "stack-data"
 version = "0.6.3"
 source = { registry = "https://pypi.org/simple" }
@@ -787,6 +817,5 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/9f/69/83029f1f6300c5fb2471d621ab06f6ec6b3324685a2ce0f9777fd4a8b71e/werkzeug-3.1.3.tar.gz", hash = "sha256:60723ce945c19328679790e3282cc758aa4a6040e4bb330f53d30fa546d44746", size = 806925 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/52/24/ab44c871b0f07f491e5d2ad12c9bd7358e527510618cb1b803a88e986db1/werkzeug-3.1.3-py3-none-any.whl", hash = "sha256:54b78bf3716d19a65be4fceccc0d1d7b89e608834989dfae50ea87564639213e", size = 224498 },
->>>>>>> 17d869440609292d48531af031431fd6ece6ecc9
 ]
 >>>>>>> 1c15cf89151254c547c15b029526df5131841951

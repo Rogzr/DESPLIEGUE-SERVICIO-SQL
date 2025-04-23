@@ -2,4 +2,6 @@
 .venv
 
 # Sensitive data
+id_confidential.json
 my_psswd.json
+uri.json

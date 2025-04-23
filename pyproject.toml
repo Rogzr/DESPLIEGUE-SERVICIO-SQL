@@ -6,10 +6,13 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "ipykernel>=6.29.5",
     "pandas>=2.2.3",
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 3a03bcf1b64271e3c3a7ee6e5f56d558f3bbe0a3
     "pandas>=2.2.3",
     "pyodbc>=5.2.0",
 =======
