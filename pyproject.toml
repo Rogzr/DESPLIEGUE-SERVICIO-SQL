@@ -3,9 +3,12 @@ name = "despliegue-servicio-sql"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 dependencies = [
     "azureml>=0.2.7",
+    "azureml-core>=1.60.0",
+    "flask>=3.1.0",
+    "ipykernel>=6.29.5",
     "joblib>=1.4.2",
     "matplotlib>=3.10.1",
     "numpy>=2.2.5",
@@ -13,4 +16,5 @@ dependencies = [
     "pyodbc>=5.2.0",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
+    "setuptools>=79.0.1",
 ]
