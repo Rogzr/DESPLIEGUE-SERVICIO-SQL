@@ -11,7 +11,7 @@ def init():
 
 def run(raw_data):
     try:
-        data = json.loads(raw_data)['data'][0]
+        data = json.loads(raw_data)['datos'][0]
         data = pd.DataFrame(data)
 
         # Seleccionar columnas relevantes
@@ -30,4 +30,3 @@ def run(raw_data):
         return json.dumps({"result": result.tolist()})
     except Exception as e:
         return json.dumps({"error": str(e)})
-
